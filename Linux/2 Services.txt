@@ -1,0 +1,11 @@
+Service:
+--------
+
+
+    - service start httpd
+    - systemctl start httpd
+    - systemctl stop httpd
+    - systemctl status httpd
+    - systemctl enable httpd
+    - systemctl disable httpd
+    

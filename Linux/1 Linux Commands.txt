@@ -1,0 +1,13 @@
+Linux commands
+---------------
+
+    - rpm -i ubuntu.rpm
+    - rpm -e ubuntu.rpm
+    - rpm -q ubuntu.rpm
+
+
+    - yum install ansible
+    - 
+
+
+    
